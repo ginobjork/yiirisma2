@@ -5,6 +5,8 @@ div.form
 
 div.form input,
 div.form textarea,
+div.form input,
+div.form textarea,
 div.form select
 {
 	margin: 0.2em 0 0.5em 0;
